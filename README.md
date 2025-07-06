@@ -3,11 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:FF2756,60:FF5659,70:FF7559,75:FE9251,100:FEA048&height=110&section=header&text=&fontSize=0" width='100%' />
 </div>
 
-### Hi. I'm Jieun Kim. 🖐️
+### Hi. I'm Eun.
 
 #### 😎 Etc.  
-<a href="" target="_blank"><img src="https://img.shields.io/badge/j2gurri@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJi-eun-Kim%2Fhit-counter&count_bg=%23FF7559&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Hello!&edge_flat=true"/>
+<!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/j2gurri@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a> -->
 
 
 #### ⚔️ Languages & Development Tools
